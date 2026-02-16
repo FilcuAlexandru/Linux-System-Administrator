@@ -1,6 +1,6 @@
 # Hardware Crawler v0.0.1
 
-**Ultimate Linux Server Hardware Detection Tool**
+**Linux Server Hardware Detection Tool**
 
 A comprehensive Python-based hardware information gathering tool for Linux servers that detects and reports detailed information about CPU, RAM, motherboard, storage devices, GPUs, and other hardware components using `/proc`, `/sys` filesystem interfaces and system commands.
 
@@ -482,6 +482,7 @@ Debug with detailed logging:
 - CentOS 7
 - RHEL 8
 - Alpine Linux
+- SLES 15 SP7
 
 **Requirements Met:**
 - ✓ Python 3.6+
@@ -519,7 +520,27 @@ chmod 700 /var/log/hardware
 
 **MIT License**
 
-Permission to use, modify, and distribute freely.
+MIT License
+
+Copyright (c) 2026 Filcu Alexandru
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ---
 
@@ -537,7 +558,7 @@ For help and documentation:
 
 ## Author
 
-**Alexandru Filcu**
+**Filcu Alexandru**
 
 Version 0.0.1 - February 2025
 
@@ -560,4 +581,4 @@ Version 0.0.1 - February 2025
 
 ---
 
-**Hardware Crawler v2.0.0** - Professional Linux Hardware Detection Tool
+**Hardware Crawler v0.0.1** - Linux Hardware Detection Tool
