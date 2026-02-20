@@ -1,12 +1,13 @@
 #!/usr/bin/env python3.6
 # -*- coding: utf-8 -*-
 
-######################################################################################################################
-# A Python 3.6 script that verifies BIOS and Firmware informations on a Linux server.                                #
-# The script verifies the following: BIOS version, UEFI info, firmware settings, boot order, and boot configuration. #
-# Version: 0.0.1                                                                                                     #
-# Author: Alexandru Filcu                                                                                            #
-######################################################################################################################
+############################################################################################################
+# A PYTHON 3.6 SCRIPT THAT CRAWLS BIOS AND FIRMWARE INFORMATION ON LINUX SYSTEMS.                          #
+# THE SCRIPT CRAWLS BIOS VERSION, UEFI INFORMATION, FIRMWARE SETTINGS, BOOT ORDER, AND BOOT CONFIGURATION. #
+# THE SCRIPT DISPLAYS THE COLLECTED INFORMATION AS JSON OUTPUT.                                            #
+# VERSION: 0.0.1                                                                                           #
+# AUTHOR: ALEXANDRU FILCU                                                                                  #
+############################################################################################################
 
 ######################
 # Import handy tools #

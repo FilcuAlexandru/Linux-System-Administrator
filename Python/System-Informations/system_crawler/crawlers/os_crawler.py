@@ -1,12 +1,13 @@
 #!/usr/bin/env python3.6
 # -*- coding: utf-8 -*-
 
-#############################################################################################################################################################
-# A Python 3.6 script that verifies OS information on a Linux server.                                                                                       #
-# The script verifies the following: os-release, hostname, kernel, lsb_release, /proc/version, virtualization, uptime, locale, and time/date configuration. #
-# Version: 0.0.1                                                                                                                                            #
-# Author: Alexandru Filcu                                                                                                                                   #
-#############################################################################################################################################################
+############################################################################################################################################
+# A PYTHON 3.6 SCRIPT THAT CRAWLS OS INFORMATION ON LINUX SYSTEMS.                                                                         #
+# THE SCRIPT CRAWLS OS-RELEASE, HOSTNAME, KERNEL, LSB_RELEASE, /PROC/VERSION, VIRTUALIZATION, UPTIME, LOCALE, AND TIME/DATE CONFIGURATION. #
+# THE SCRIPT DISPLAYS THE COLLECTED INFORMATION AS JSON OUTPUT.                                                                            #
+# VERSION: 0.0.1                                                                                                                           #
+# AUTHOR: ALEXANDRU FILCU                                                                                                                  #
+############################################################################################################################################
 
 ######################
 # Import handy tools #

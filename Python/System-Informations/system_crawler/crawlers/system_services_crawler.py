@@ -1,12 +1,13 @@
 #!/usr/bin/env python3.6
 # -*- coding: utf-8 -*-
 
-###############################################################################################################
-# A Python 3.6 script that verifies System Services information on a Linux server.                            #
-# The script verifies the following: systemd services, daemons, service status, timers, sockets, and targets. #
-# Version: 0.0.1                                                                                              #
-# Author: Alexandru Filcu                                                                                     #
-###############################################################################################################
+##############################################################################################
+# A PYTHON 3.6 SCRIPT THAT CRAWLS SYSTEM SERVICES INFORMATION ON LINUX SYSTEMS.              #
+# THE SCRIPT CRAWLS SYSTEMD SERVICES, DAEMONS, SERVICE STATUS, TIMERS, SOCKETS, AND TARGETS. #
+# THE SCRIPT DISPLAYS THE COLLECTED INFORMATION AS JSON OUTPUT.                              #
+# VERSION: 0.0.1                                                                             #
+# AUTHOR: ALEXANDRU FILCU                                                                    #
+##############################################################################################
 
 ######################
 # Import handy tools #

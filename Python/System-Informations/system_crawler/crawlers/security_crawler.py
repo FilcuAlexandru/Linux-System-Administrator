@@ -1,12 +1,13 @@
 #!/usr/bin/env python3.6
 # -*- coding: utf-8 -*-
 
-#############################################################################################################################
-# A Python 3.6 script that verifies Security informations on a Linux server.                                                #
-# The script verifies the following: SELinux, AppArmor, firewall, sudo access, SSH config, SSL certs, and security patches. #
-# Version: 0.0.1                                                                                                            #
-# Author: Alexandru Filcu                                                                                                   #
-#############################################################################################################################
+############################################################################################################
+# A PYTHON 3.6 SCRIPT THAT CRAWLS SECURITY INFORMATION ON LINUX SYSTEMS.                                   #
+# THE SCRIPT CRAWLS SELINUX, APPARMOR, FIREWALL, SUDO ACCESS, SSH CONFIG, SSL CERTS, AND SECURITY PATCHES. #
+# THE SCRIPT DISPLAYS THE COLLECTED INFORMATION AS JSON OUTPUT.                                            #
+# VERSION: 0.0.1                                                                                           #
+# AUTHOR: ALEXANDRU FILCU                                                                                  #
+############################################################################################################
 
 ######################
 # Import handy tools #

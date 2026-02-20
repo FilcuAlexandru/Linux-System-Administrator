@@ -1,12 +1,13 @@
 #!/usr/bin/env python3.6
 # -*- coding: utf-8 -*-
 
-##################################################################################################
-# A Python 3.6 script that verifies Sensor information on a Linux server.                        #
-# The script verifies the following: temperature, voltage, fan speed, and other sensor readings. #
-# Version: 0.0.1                                                                                 #
-# Author: Alexandru Filcu                                                                        #
-##################################################################################################
+#################################################################################
+# A PYTHON 3.6 SCRIPT THAT CRAWLS SENSOR INFORMATION ON LINUX SYSTEMS.          #
+# THE SCRIPT CRAWLS TEMPERATURE, VOLTAGE, FAN SPEED, AND OTHER SENSOR READINGS. #
+# THE SCRIPT DISPLAYS THE COLLECTED INFORMATION AS JSON OUTPUT.                 #
+# VERSION: 0.0.1                                                                #
+# AUTHOR: ALEXANDRU FILCU                                                       #
+#################################################################################
 
 ######################
 # Import handy tools #

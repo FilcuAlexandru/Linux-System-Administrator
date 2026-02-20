@@ -1,12 +1,13 @@
 #!/usr/bin/env python3.6
 # -*- coding: utf-8 -*-
 
-###############################################################################################################################
-# A Python 3.6 script that verifies RAM informations on a Linux server.                                                       #
-# The script verifies the following: total memory, free memory, used memory, buffers, cache, and detailed memory information. #
-# Version: 0.0.1                                                                                                              #
-# Author: Alexandru Filcu                                                                                                     #
-###############################################################################################################################
+##############################################################################################################
+# A PYTHON 3.6 SCRIPT THAT CRAWLS RAM INFORMATION ON LINUX SYSTEMS.                                          #
+# THE SCRIPT CRAWLS TOTAL MEMORY, FREE MEMORY, USED MEMORY, BUFFERS, CACHE, AND DETAILED MEMORY INFORMATION. #
+# THE SCRIPT DISPLAYS THE COLLECTED INFORMATION AS JSON OUTPUT.                                              #
+# VERSION: 0.0.1                                                                                             #
+# AUTHOR: ALEXANDRU FILCU                                                                                    #
+##############################################################################################################
 
 ######################
 # Import handy tools #

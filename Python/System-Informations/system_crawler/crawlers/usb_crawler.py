@@ -1,12 +1,13 @@
 #!/usr/bin/env python3.6
 # -*- coding: utf-8 -*-
 
-#########################################################################################################################
-# A Python 3.6 script that verifies USB device informations on a Linux server.                                          #
-# The script verifies the following: USB devices, USB hubs, device manufacturers, USB versions, and USB device details. #
-# Version: 0.0.1                                                                                                        #
-# Author: Alexandru Filcu                                                                                               #
-#########################################################################################################################
+########################################################################################################
+# A PYTHON 3.6 SCRIPT THAT CRAWLS USB DEVICE INFORMATION ON LINUX SYSTEMS.                             #
+# THE SCRIPT CRAWLS USB DEVICES, USB HUBS, DEVICE MANUFACTURERS, USB VERSIONS, AND USB DEVICE DETAILS. #
+# THE SCRIPT DISPLAYS THE COLLECTED INFORMATION AS JSON OUTPUT.                                        #
+# VERSION: 0.0.1                                                                                       #
+# AUTHOR: ALEXANDRU FILCU                                                                              #
+########################################################################################################
 
 ######################
 # Import handy tools #

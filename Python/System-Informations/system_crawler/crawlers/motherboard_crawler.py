@@ -1,12 +1,13 @@
 #!/usr/bin/env python3.6
 # -*- coding: utf-8 -*-
 
-###################################################################################################################
-# A Python 3.6 script that verifies Motherboard and BIOS informations on a Linux server.                          #
-# The script verifies the following: motherboard manufacturer, model, BIOS info, serial numbers, and system info. #
-# Version: 0.0.1                                                                                                  #
-# Author: Alexandru Filcu                                                                                         #
-###################################################################################################################
+#########################################################################################################
+# A PYTHON 3.6 SCRIPT THAT CRAWLS MOTHERBOARD AND BIOS INFORMATION ON LINUX SYSTEMS.                    #
+# THE SCRIPT CRAWLS MOTHERBOARD MANUFACTURER, MODEL, BIOS INFO, SERIAL NUMBERS, AND SYSTEM INFORMATION. #
+# THE SCRIPT DISPLAYS THE COLLECTED INFORMATION AS JSON OUTPUT.                                         #
+# VERSION: 0.0.1                                                                                        #
+# AUTHOR: ALEXANDRU FILCU                                                                               #
+#########################################################################################################
 
 ######################
 # Import handy tools #

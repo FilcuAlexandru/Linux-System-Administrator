@@ -1,12 +1,13 @@
 #!/usr/bin/env python3.6
 # -*- coding: utf-8 -*-
 
-###############################################################################################
-# A Python 3.6 script that verifies GPU informations on a Linux server.                       #
-# The script verifies the following: GPU model, memory, driver, temperature, and utilization. #
-# Version: 0.0.1                                                                              #
-# Author: Alexandru Filcu                                                                     #
-###############################################################################################
+##############################################################################
+# A PYTHON 3.6 SCRIPT THAT CRAWLS GPU INFORMATION ON LINUX SYSTEMS.          #
+# THE SCRIPT CRAWLS GPU MODEL, MEMORY, DRIVER, TEMPERATURE, AND UTILIZATION. #
+# THE SCRIPT DISPLAYS THE COLLECTED INFORMATION AS JSON OUTPUT.              #
+# VERSION: 0.0.1                                                             #
+# AUTHOR: ALEXANDRU FILCU                                                    #
+##############################################################################
 
 ######################
 # Import handy tools #

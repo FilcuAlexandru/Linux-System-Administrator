@@ -1,12 +1,13 @@
 #!/usr/bin/env python3.6
 # -*- coding: utf-8 -*-
 
-#########################################################################################################
-# A Python 3.6 script that verifies PCI device informations on a Linux server.                          #
-# The script verifies the following: PCI devices, device classes, drivers, vendors, and device details. #
-# Version: 0.0.1                                                                                        #
-# Author: Alexandru Filcu                                                                               #
-#########################################################################################################
+########################################################################################
+# A PYTHON 3.6 SCRIPT THAT CRAWLS PCI DEVICE INFORMATION ON LINUX SYSTEMS.             #
+# THE SCRIPT CRAWLS PCI DEVICES, DEVICE CLASSES, DRIVERS, VENDORS, AND DEVICE DETAILS. #
+# THE SCRIPT DISPLAYS THE COLLECTED INFORMATION AS JSON OUTPUT.                        #
+# VERSION: 0.0.1                                                                       #
+# AUTHOR: ALEXANDRU FILCU                                                              #
+########################################################################################
 
 ######################
 # Import handy tools #

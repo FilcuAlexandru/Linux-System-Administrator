@@ -1,12 +1,13 @@
 #!/usr/bin/env python3.6
 # -*- coding: utf-8 -*-
 
-#######################################################################################################################
-# A Python 3.6 script that verifies Storage and Disk informations on a Linux server.                                  #
-# The script verifies the following: disk capacity, usage, partitions, mount points, disk speed, and storage devices. #
-# Version: 0.0.1                                                                                                      #
-# Author: Alexandru Filcu                                                                                             #
-#######################################################################################################################
+######################################################################################################
+# A PYTHON 3.6 SCRIPT THAT CRAWLS STORAGE AND DISK INFORMATION ON LINUX SYSTEMS.                     #
+# THE SCRIPT CRAWLS DISK CAPACITY, USAGE, PARTITIONS, MOUNT POINTS, DISK SPEED, AND STORAGE DEVICES. #
+# THE SCRIPT DISPLAYS THE COLLECTED INFORMATION AS JSON OUTPUT.                                      #
+# VERSION: 0.0.1                                                                                     #
+# AUTHOR: ALEXANDRU FILCU                                                                            #
+######################################################################################################
 
 ######################
 # Import handy tools #
