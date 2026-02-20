@@ -1099,7 +1099,7 @@ Actual times vary based on:
 
 ### Issue: "N/A" Values in Output
 
-**Cause:** Optional tools not installed
+**Cause:** Optional tools are not installed
 
 **Solution:**
 ```bash
